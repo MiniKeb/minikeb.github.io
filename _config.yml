@@ -1,0 +1,19 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            MiniKeb
+tagline:          sur le chemin...
+url:              http://minikeb.github.io
+paginate:         1
+baseurl:          /
+author:
+  name:           MiniKeb
+  url:            https://twitter.com/minikeb
+  email:          minikeb@free.fr
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/minikeb/minikeb.github.io
