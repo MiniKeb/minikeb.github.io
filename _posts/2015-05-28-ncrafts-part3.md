@@ -13,7 +13,7 @@ Avec ces frameworks, on finit par avoir énormément de code de <s>plomberie</s>
 
 En programmation fonctionnelle, on résoud la complexité en composant les fonctions. Les dépendances sont donc directement fournies en paramètre aux fonctions qui les utilisent: L'application partielle entre en jeu.
 
-Tomasz continue sa session avec une [démonstration][FunctionalProgDemo] de parsing d'un texte en C#. Il y a un peu de code nécessaire pour wrapper/dé-wrapper le résultat, mais l'ensemble reste simple et lisible.
+Tomasz continue sa session avec une [démonstration][Code] de parsing d'un texte en C#. Il y a un peu de code nécessaire pour wrapper/dé-wrapper le résultat, mais l'ensemble reste simple et lisible.
 
 Il termine sa session en expliquant que cela aurait effectivement encore été plus simple en F#, mais le but était de montrer que le faire en C# n'était pas si compliqué et retirait la part de *magie* des frameworks d'injection.
 
