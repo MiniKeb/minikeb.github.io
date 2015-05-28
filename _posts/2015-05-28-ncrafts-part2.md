@@ -5,7 +5,7 @@ title: Et si je vous faisais un retour sur NCrafts... (deuxième partie)
 
 ## Jour 1 - Continuous delivery - the missing parts - [**Paul Stack**][PaulStack]
 
-Paul est probablement l'un des rares intervenants dont je n'avais pas entendu parler avant ce jour, mais fut une réelle et agréable surprise. Sa session pleine d'énergie parlait de DevOps et plus particulièrement de livraison continue (Continuous Delivery).
+Paul est probablement l'un des rares intervenants dont je n'avais pas entendu parler avant ce jour, mais fut une réelle et agréable surprise. Sa [session][Slides] pleine d'énergie parlait de DevOps et plus particulièrement de livraison continue (Continuous Delivery).
 
 En premier lieu, Paul nous rappelle que le but du CD[^1] est de <s>builder</s> construire, tester et déployer un projet de manière automatique et fréquente.
 
@@ -42,7 +42,7 @@ Il me semble que cette pratique nous vient de Toyota, qui s'il y a un problème 
 Avec ces principes et pratiques en tête, Paul continue sa présentation sur les idées reçues, qu'il a pu entendre.  
 J'ai particulièrement retenu et apprécié celle-ci : 
 
-> CD[^1] is simple has hooking github to Azure
+> CD[^1] is simple as hooking github to Azure
 
 Notre orateur nous explique ensuite ce qu'est le DevOps, à savoir un buzzword qui a été collé sur le rapprochement et l'étroite collaboration entre les développeurs et les opérationnels. Ce n'est ni un rôle, ni un poste, ni une personne mais juste une manière de travailler.
 
@@ -57,7 +57,7 @@ Paul poursuit en nous expliquant que le "DevOps" repose donc sur :
 * Des <s>mesures</s> métriques
 * Le partage
 
-Il met aussi en avant que l'infrastructure a un impact important et qu'elle ne doit pas être considéré comme un animal de compagnie mais plutôt comme du bétail. Il met en balance l'infrastructure <s>immutable</s> immuable qui rigidifie le process et l'infrastructure <s>disposable</s> disponible qui est utilisable au besoin.
+Il met aussi en avant que l'infrastructure a un impact important et qu'elle ne doit pas être considérée comme un animal de compagnie mais plutôt comme du bétail. Il met en balance l'infrastructure <s>immutable</s> immuable qui rigidifie le process et l'infrastructure <s>disposable</s> disponible qui est utilisable au besoin.
 
 Pour conclure, le déploiement continu fait partie intégrante de notre travail de développeurs. 
 
@@ -81,6 +81,7 @@ Paul nous invite également à lire [The Goal][Book_TheGoal] et plus particuliè
 [^14]: Si quelque chose échoue, arrêtez tout!
 
 [PaulStack]: https://twitter.com/stack72
+[Slides]: https://speakerdeck.com/stack72/continuous-delivery-the-missing-parts
 [SoftwareCraftmanshipManifesto]: http://manifesto.softwarecraftsmanship.org/#/fr-fr
 [AgileManifesto]: http://agilemanifesto.org/iso/fr/principles.html
 [KISS]: http://fr.wikipedia.org/wiki/Principe_KISS

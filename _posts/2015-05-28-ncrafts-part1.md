@@ -5,11 +5,11 @@ title: Et si je vous faisais un retour sur NCrafts... (première partie)
 
 ## Jour 1 - Keynote: The Joy Of Debugging Ourselves - [**Laurent Bossavit**][LaurentBossavit]
 
-Laurent a ouvert le bal avec une session oscillant entre développement, cognitif, cerveau etc. Ayant eu quelques difficultés a entrer dans le bain, je n'ai pris quelques notes se résumant à ce qui suit.
+Laurent a ouvert le bal avec une session oscillant entre développement, cognitif, cerveau etc. Ayant eu quelques difficultés à entrer dans le bain, je n'ai pris que quelques notes se résumant à ce qui suit.
 
 Laurent a débuté en indiquant que *la vie serait probablement plus simple si on avait le code source* et après avoir évoqué l'étendu des possibilités qu'offrait le code, il l'a mis en balance avec la frustration que ce dernier pouvait apporter aux développeurs.  
-Les bugs sont l'exemples de ce qui peut frustrer un développeur, mais ces derniers ne sont pas là par hasard. Les réflexions de Monsieur Bossavit l'on mené à imaginer une loi, dont il espère être éponyme : *Les bugs dans le code sont des bugs dans notre cerveau*.  
-Effectivement, notre cerveau est plein de bugs, comme les biais, Laurent parlait ici du biais de confirmation va nous faire rechercher une information confirmant ce que l'on pense. 
+Les bugs sont l'exemples de ce qui peut frustrer un développeur, mais ces derniers ne sont pas là par hasard. Les réflexions de Monsieur Bossavit l'ont mené à imaginer une loi, dont il espère être éponyme : *Les bugs dans le code sont des bugs dans notre cerveau*.  
+Effectivement, notre cerveau est plein de bugs, comme les biais. Laurent parlait ici du biais de confirmation qui va nous faire rechercher une information confirmant ce que l'on pense. 
 Prenons l'exemple d'une blague : 
 
 > Un homme conduit sur l'autoroute.  
