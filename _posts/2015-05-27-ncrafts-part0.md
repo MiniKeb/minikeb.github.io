@@ -18,7 +18,7 @@ Ne souhaitant pas écrire une note de 15 kilomètres de long, je vais la découp
 	4. [The Silver Bullet Syndrome - *Hadi Hariri*][SilverBullet]
 	5. [TDD is dead?!? Let's do an autopsy - *Bruno Boucard et Thomas Pierrain*][TDDIsDead]
 	6. [Introducing EventStorming - *Alberto Brandolini*][EventStorming]
-	7. The Kata In The Hat - *Jonathan Perret et Emmanuel Gaillot*
+	7. [The Kata In The Hat - *Jonathan Perret et Emmanuel Gaillot*][KataInTheHat]
 2. Jour 2 - 2015/05/22
 	1. Game Test - *ABC Arbitrage*
 	2. Type-Driven Development - *Mark Seemann*
@@ -37,6 +37,7 @@ Ne souhaitant pas écrire une note de 15 kilomètres de long, je vais la découp
 [Keynote]: /2015/05/28/ncrafts-part1/
 [ContinousDelivery]: /2015/05/28/ncrafts-part2/
 [FPinCSharp]: /2015/05/28/ncrafts-part3/
-[SilverBullet]: 
-[TDDIsDead]: 
-[EventStorming]: 
+[SilverBullet]: #
+[TDDIsDead]: #
+[EventStorming]: #
+[KataInTheHat]: #
