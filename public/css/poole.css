@@ -352,6 +352,10 @@ tbody tr:nth-child(odd) th {
   color: #9a9a9a;
 }
 
+.footnotes {
+  font-size: 0.75em;
+}
+
 /* Related posts */
 .related {
   padding-top: 2rem;
