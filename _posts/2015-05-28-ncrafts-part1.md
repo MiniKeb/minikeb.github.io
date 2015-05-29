@@ -3,7 +3,7 @@ layout: post
 title: Et si je vous faisais un retour sur NCrafts... (première partie)
 ---
 
-## Jour 1 - Keynote: The Joy Of Debugging Ourselves - [**Laurent Bossavit**][LaurentBossavit]
+## Jour 1 - Keynote: The Joy Of Debugging Ourselves - [*Laurent Bossavit*][LaurentBossavit]
 
 Laurent a ouvert le bal avec une session oscillant entre développement, cognitif, cerveau etc. Ayant eu quelques difficultés à entrer dans le bain, je n'ai pris que quelques notes se résumant à ce qui suit.
 

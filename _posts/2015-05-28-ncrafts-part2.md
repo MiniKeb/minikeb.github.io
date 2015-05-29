@@ -3,7 +3,7 @@ layout: post
 title: Et si je vous faisais un retour sur NCrafts... (deuxième partie)
 ---
 
-## Jour 1 - Continuous delivery - the missing parts - [**Paul Stack**][PaulStack]
+## Jour 1 - Continuous delivery - the missing parts - [*Paul Stack*][PaulStack]
 
 Paul est probablement l'un des rares intervenants dont je n'avais pas entendu parler avant ce jour, mais fut une réelle et agréable surprise. Sa [session][Slides] pleine d'énergie parlait de DevOps et plus particulièrement de livraison continue (Continuous Delivery).
 

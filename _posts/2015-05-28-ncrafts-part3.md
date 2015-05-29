@@ -3,7 +3,7 @@ layout: post
 title: Et si je vous faisais un retour sur NCrafts... (troisième partie)
 ---
 
-## Jour 1 - Functional Programming in C# - [**Tomasz Jaskula**][TomaszJaskula]
+## Jour 1 - Functional Programming in C# - [*Tomasz Jaskula*][TomaszJaskula]
 
 Dans cette [session][Slides], Tomasz nous montre qu'il est possible de faire du [fonctionnel en C#][Code].
 
