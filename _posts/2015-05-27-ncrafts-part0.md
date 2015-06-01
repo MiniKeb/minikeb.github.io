@@ -38,6 +38,6 @@ Ne souhaitant pas écrire une note de 15 kilomètres de long, je vais la découp
 [ContinousDelivery]: /2015/05/28/ncrafts-part2/
 [FPinCSharp]: /2015/05/28/ncrafts-part3/
 [SilverBullet]: /2015/05/29/ncrafts-part4/
-[TDDIsDead]: #
+[TDDIsDead]: /2015/05/30/ncrafts-part5/
 [EventStorming]: #
 [KataInTheHat]: #
