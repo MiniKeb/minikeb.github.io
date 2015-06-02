@@ -39,5 +39,5 @@ Ne souhaitant pas écrire une note de 15 kilomètres de long, je vais la découp
 [FPinCSharp]: /2015/05/28/ncrafts-part3/
 [SilverBullet]: /2015/05/29/ncrafts-part4/
 [TDDIsDead]: /2015/05/30/ncrafts-part5/
-[EventStorming]: #
-[KataInTheHat]: #
+[EventStorming]: /2015/06/02/ncrafts-part6/
+[KataInTheHat]: /2015/06/02/ncrafts-part7/
