@@ -7,7 +7,7 @@ title:            MiniKeb
 tagline:          sur le chemin...
 url:              http://minikeb.github.io
 paginate:         1
-baseurl:          /
+baseurl:          
 author:
   name:           MiniKeb
   url:            https://twitter.com/minikeb
