@@ -20,20 +20,21 @@ Ne souhaitant pas écrire une note de 15 kilomètres de long, je vais la découp
 	6. [Introducing EventStorming - *Alberto Brandolini*][EventStorming]
 	7. [The Kata In The Hat - *Jonathan Perret et Emmanuel Gaillot*][KataInTheHat]
 2. Jour 2 - 2015/05/22
-	1. Game Test - *ABC Arbitrage*
-	2. Type-Driven Development - *Mark Seemann*
-	3. Enterprise Tic-Tac-Toe - *Scott Wlaschin*
-	4. If you're not live coding, you're dead coding! - *Jérémie Chassaing*
-	5. When DDD meets Documentation - *Cyrille Martraire*
-	6. Keynote: The T in TDD : tests, types, tales - *Mathias Brandewinder*
+	1. [Game Test - *ABC Arbitrage*][ABCArbitrageTest]
+	2. [Type-Driven Development - *Mark Seemann*][TypeDrivenDev]
+	3. [Enterprise Tic-Tac-Toe - *Scott Wlaschin*][TicTacToe]
+	4. [If you're not live coding, you're dead coding! - *Jérémie Chassaing*][LiveCoding]
+	5. [When DDD meets Documentation - *Cyrille Martraire*][DDDmeetsDoc]
+	6. [Keynote: The T in TDD : tests, types, tales - *Mathias Brandewinder*][KeynoteEnd]
 
 
 ---
 
-[^1]: Dans l'hypothèse ce post soit toujours en ligne dans le future, nous sommes en 2015 lorsque j'écris ceci.
+[^1]: Dans l'hypothèse ce post soit toujours en ligne dans le futur, nous sommes en 2015 lorsque j'écris ceci.
 [^2]: Autant que faire ce peut, vous trouverez les slides des sessions sur la première occurence du mot "session" de chaque post.
 
 [NCrafts]: http://ncrafts.io/
+
 [Keynote]: /2015/05/28/ncrafts-part1/
 [ContinousDelivery]: /2015/05/28/ncrafts-part2/
 [FPinCSharp]: /2015/05/28/ncrafts-part3/
@@ -41,3 +42,9 @@ Ne souhaitant pas écrire une note de 15 kilomètres de long, je vais la découp
 [TDDIsDead]: /2015/05/30/ncrafts-part5/
 [EventStorming]: /2015/06/02/ncrafts-part6/
 [KataInTheHat]: /2015/06/02/ncrafts-part7/
+[ABCArbitrageTest]: /2015/06/04/ncrafts-part8/
+[TypeDrivenDev]: /2015/06/05/ncrafts-part9/
+[TicTacToe]: /2015/06/05/ncrafts-part10/
+[LiveCoding]:
+[DDDmeetsDoc]:
+[KeynoteEnd]: 
