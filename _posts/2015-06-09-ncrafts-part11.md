@@ -13,14 +13,14 @@ La découverte de ce qu'il est possible de réaliser, l'expérimentation pour vo
 
 Oui, l'envie, la passion, la curiosité, l'apprentissage, l'amusement, c'est un peu tout ceci le live coding.
 
-Au cours de sa session, il va en live avec son langage de prédilection (F#) : 
+Au cours de sa session, il va, en live avec son langage de prédilection (F#) : 
 
 * coder FizzBuzz vocal
 * faire jouer "Au clair de la lune" à son PC
 * déplacer un robot Lego© avec des commandes envoyées via bluetooth
 * créer une animation modifiable en live
 
-Au cours de sa session, je crois comprendre que Jérémie veux nous faire prendre conscience que le code : 
+et je crois comprendre que Jérémie veux nous faire prendre conscience que le code : 
 
 * se découvre : Il ne faut pas hésiter à expérimenter pour avoir un feedback rapide.
 * est ludique : Tout comme Jérémie l'a fait, il est possible d'intéresser des enfants à la programmation grace à des projets amusant.
@@ -34,9 +34,12 @@ D'ailleurs, Jérémie nous indique qu'il aime à se définir lui même comme un 
 Bref, cette session a su montrer qu'il est possible d'aborder le code de manière décalé.  
 Par certains aspect, cette session m'a un petit peu fait penser à la présentation [Extremist Programming][ExtremistProgramming].
 
+*Update : On[^2] me souffle dans la tweet-oreillette que mon compte-rendu passe élude totalement que Jérémie parlait également de la puissance du langage de script. Effectivement le fait que l'on puisse scripter en F# permet d'améliorer le design.*
+
 ---
 
 [^1]: Oui, il y a plus de 20 ans. :(
+[^2]: Cyril et Jérémie en fait.
 
 [JeremieChassaing]: https://twitter.com/thinkb4coding
 [ExtremistProgramming]: https://www.youtube.com/watch?v=yKKn8WuEY94
