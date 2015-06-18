@@ -15,6 +15,7 @@ Bien sûr, il y a des moyens bien plus efficace de transmettre la connaissance, 
 BDD[^1] fait partie de ce type de documentation restant à jour. Néanmoins, pour avoir une documentation la plus vivante possible, la meilleure solution reste encore d'exploiter directement le code.  
 
 Et c'est ce que nous montre Cyrille : 
+
 * en annotant son code pour identifier les *DDD[^2] building blocks*, il est possible de générer un glossaire du métier. De plus le glossaire permettra de mettre en exergue si vous faites mal du DDD[^2].
 * en prenant soin de son architecture[^3] et avec quelques convention de nommage, il est possible de générer un diagramme qui de surcroit nous donne l'occasion de visualiser rapidement les complexités ou problèmes d'architecture.
 
