@@ -3,7 +3,7 @@ layout: post
 title: Et si je vous faisais un retour sur NCrafts... (deuxième partie)
 ---
 
-## Jour 1 - Continuous delivery - the missing parts - [*Paul Stack*][PaulStack]
+## Jour 1 - [Continuous delivery - the missing parts][Video] - [*Paul Stack*][PaulStack]
 
 Paul est probablement l'un des rares intervenants dont je n'avais pas entendu parler avant ce jour, mais fut une réelle et agréable surprise. Sa [session][Slides] pleine d'énergie parlait de DevOps et plus particulièrement de livraison continue (Continuous Delivery).
 
@@ -80,6 +80,7 @@ Paul nous invite également à lire [The Goal][Book_TheGoal] et plus particuliè
 [^13]: Smoke tester vos déploiements.
 [^14]: Si quelque chose échoue, arrêtez tout!
 
+[Video]: http://videos.ncrafts.io/video/130216882
 [PaulStack]: https://twitter.com/stack72
 [Slides]: https://speakerdeck.com/stack72/continuous-delivery-the-missing-parts
 [SoftwareCraftmanshipManifesto]: http://manifesto.softwarecraftsmanship.org/#/fr-fr

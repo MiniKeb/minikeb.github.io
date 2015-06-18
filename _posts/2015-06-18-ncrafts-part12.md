@@ -25,7 +25,7 @@ Pour faire court, simplifiez votre code et votre architecture et la documentatio
 Cyrille termine sa session par une autopromotion de son livre [*Living Documentation*][LivingDocumentation] qui semble approfondir le sujet.
 
 En conclusion, cette session donne envie de se (re)mettre à la documentation pourvu qu'elle soit vivante.  
-Cyrille est orateur que j'apprécie beaucoup pour l'accessibilité et l'énergie qu'il peut mettre dans ses présentations, je vous invite donc à regarder celle dont je viens de vous parler sur [SkillsMatter][SkillsMatters].
+Cyrille est orateur que j'apprécie beaucoup pour l'accessibilité et l'énergie qu'il peut mettre dans ses présentations, je vous invite donc à regarder celle dont je viens de vous parler sur [SkillsMatter][SkillsMatter].
 
 ---
 

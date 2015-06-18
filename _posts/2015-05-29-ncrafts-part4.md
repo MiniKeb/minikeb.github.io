@@ -3,7 +3,7 @@ layout: post
 title: Et si je vous faisais un retour sur NCrafts... (quatrième partie)
 ---
 
-## Jour 1 - The Silver Bullet Syndrome - [*Hadi Hariri*][HadiHariri]
+## Jour 1 - [The Silver Bullet Syndrome][Video] - [*Hadi Hariri*][HadiHariri]
 
 Pour sa session, Hadi annonce la couleur d'entrée de jeu. 
 
@@ -36,4 +36,5 @@ Pour conclure, Monsieur Hariri, ne nous avait pas menti, nous n'avons pas appris
 
 [^1]: Curriculum Vitae Driven Development
 
+[Video]: http://videos.ncrafts.io/video/130202574
 [HadiHariri]: https://twitter.com/hhariri

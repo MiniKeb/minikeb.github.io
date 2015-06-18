@@ -3,7 +3,7 @@ layout: post
 title: Et si je vous faisais un retour sur NCrafts... (cinquième partie)
 ---
 
-## Jour 1 - TDD is dead?!? Let's do an autopsy - [*Bruno Boucard*][BrunoBoucard] et [*Thomas Pierrain*][ThomasPierrain]
+## Jour 1 - [TDD is dead?!? Let's do an autopsy][Video] - [*Bruno Boucard*][BrunoBoucard] et [*Thomas Pierrain*][ThomasPierrain]
 
 Dans cette [session][Slides], Bruno et Thomas essayent de répondre à la question :
 
@@ -94,6 +94,7 @@ Ne vous contentez pas de suivre le mantra *Red > Green > Refactor*, mais étudie
 [^1]: Test Driven Development
 [^2]: Acceptance Test Driven Development
 
+[Video]: http://videos.ncrafts.io/video/130256612
 [BrunoBoucard]: https://twitter.com/brunoboucard
 [ThomasPierrain]: https://twitter.com/tpierrain
 [Slides]: http://fr.slideshare.net/ThomasPierrain/if-tdd-is-dead-then-do-an-autospy-16-9-v24

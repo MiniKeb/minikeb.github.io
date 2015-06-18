@@ -3,7 +3,7 @@ layout: post
 title: Et si je vous faisais un retour sur NCrafts... (sixième partie)
 ---
 
-## Jour 1 - Introducing EventStorming - [*Alberto Brandolini*][AlbertoBrandolini]
+## Jour 1 - [Introducing EventStorming][Video] - [*Alberto Brandolini*][AlbertoBrandolini]
 
 Dans cette session d'introduction à l'EventStorming, c'est son inventeur en personne, Alberto Brandolini, qui nous en fait la présentation.
 
@@ -53,5 +53,6 @@ Peut être qu'essayer l'EventStorming sera l'occasion d'un futur post.
 
 [^1]: Domain Driven Design
 
+[Video]: http://videos.ncrafts.io/video/130202708
 [AlbertoBrandolini]: https://twitter.com/ziobrando
 
