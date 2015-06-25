@@ -45,6 +45,6 @@ Ne souhaitant pas écrire une note de 15 kilomètres de long, je vais la découp
 [ABCArbitrageTest]: /2015/06/04/ncrafts-part8/
 [TypeDrivenDev]: /2015/06/05/ncrafts-part9/
 [TicTacToe]: /2015/06/05/ncrafts-part10/
-[LiveCoding]:
-[DDDmeetsDoc]:
-[KeynoteEnd]: 
+[LiveCoding]: /2015/06/09/ncrafts-part11/
+[DDDmeetsDoc]: /2015/06/18/ncrafts-part12/
+[KeynoteEnd]: /2015/06/25/ncrafts-part13/
