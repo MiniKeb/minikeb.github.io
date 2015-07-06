@@ -3,7 +3,7 @@ layout: post
 title: Et si je vous faisais un retour sur NCrafts... (douzième partie)
 ---
 
-## Jour 2 - When DDD meets Documentation - [*Cyrille Martraire*][CyrilleMartraire]
+## Jour 2 - [When DDD meets Documentation][Video] - [*Cyrille Martraire*][CyrilleMartraire]
 
 La session de Cyrille traite d'un sujet qui ne fait généralement pas le bonheur des développeurs : **La documentation**.
 
@@ -34,6 +34,7 @@ Cyrille est orateur que j'apprécie beaucoup pour l'accessibilité et l'énergie
 [^2]: Domain Driven Design.
 [^3]: Avec une architecture hexagonale par exemple.
 
+[Video]: http://videos.ncrafts.io/video/131660202
 [CyrilleMartraire]: https://twitter.com/cyriux
 [LivingDocumentation]: https://leanpub.com/livingdocumentation
 [SkillsMatter]: https://skillsmatter.com/skillscasts/6273-cyrille-martraire

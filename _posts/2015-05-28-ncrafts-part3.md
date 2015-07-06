@@ -3,7 +3,7 @@ layout: post
 title: Et si je vous faisais un retour sur NCrafts... (troisième partie)
 ---
 
-## Jour 1 - Functional Programming in C# - [*Tomasz Jaskula*][TomaszJaskula]
+## Jour 1 - [Functional Programming in C#][Video] - [*Tomasz Jaskula*][TomaszJaskula]
 
 Dans cette [session][Slides], Tomasz nous montre qu'il est possible de faire du [fonctionnel en C#][Code].
 
@@ -23,6 +23,7 @@ Pour finir, faites simple et recentrez vous sur le code nécessaire à votre bus
 
 [^1]: Programmation Orientée Objet
 
+[Video]: http://videos.ncrafts.io/video/130259587
 [TomaszJaskula]: https://twitter.com/tjaskula
 [Code]: https://github.com/tjaskula/Talks/tree/master/FunctionalCSharp
 [Slides]: http://fr.slideshare.net/tjaskula/functional-dependency-injection-in-f

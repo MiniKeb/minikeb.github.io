@@ -3,7 +3,7 @@ layout: post
 title: Et si je vous faisais un retour sur NCrafts... (dixième partie)
 ---
 
-## Jour 2 - Enterprise Tic-Tac-Toe - [*Scott Wlaschin*][ScottWlaschin]
+## Jour 2 - [Enterprise Tic-Tac-Toe][Video] - [*Scott Wlaschin*][ScottWlaschin]
 
 Scott nous explique qu'il espère cette version *entreprise* de son cas d'utilisation de F#, plus parlante que les habituels projets demo *entreprise* que [l'on trouve][PlusPHP] [sur le net][FizzBuzzEnterprise].
 
@@ -32,6 +32,7 @@ En bref, Scott nous fait une présentation captivante et ludique. Son site [F# f
 [^2]: Bon, celui-ci je n'ai même pas essayé de le traduire en *évolutivité*.
 [^3]: C'est moi ou ça fait beaucoup d'adjectifs d'un coup?
 
+[Video]: http://videos.ncrafts.io/video/131658142
 [ScottWlaschin]: https://twitter.com/scottwlaschin
 [TicTacToe]: http://fsharpforfunandprofit.com/posts/enterprise-tic-tac-toe/
 [FSharpForFunAndProfit]: http://fsharpforfunandprofit.com/

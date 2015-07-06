@@ -3,7 +3,7 @@ layout: post
 title: Et si je vous faisais un retour sur NCrafts... (onzième partie)
 ---
 
-## Jour 2 - If you're not live coding, you're dead coding! - [*Jérémie Chassaing*][JeremieChassaing]
+## Jour 2 - [If you're not live coding, you're dead coding!][Video] - [*Jérémie Chassaing*][JeremieChassaing]
 
 Pour cette session, nous avons à faire à un Jérémie excité comme un enfant découvrant un nouveau jouet.  
 Et ca tombe bien, c'est (il me semble) l'objet de sa session. 
@@ -41,5 +41,6 @@ Par certains aspect, cette session m'a un petit peu fait penser à la présentat
 [^1]: Oui, il y a plus de 20 ans. :(
 [^2]: Cyril et Jérémie en fait.
 
+[Video]: http://videos.ncrafts.io/video/131658147
 [JeremieChassaing]: https://twitter.com/thinkb4coding
 [ExtremistProgramming]: https://www.youtube.com/watch?v=yKKn8WuEY94

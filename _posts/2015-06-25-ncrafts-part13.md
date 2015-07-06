@@ -3,7 +3,7 @@ layout: post
 title: Et si je vous faisais un retour sur NCrafts... (dernière partie)
 ---
 
-## Jour 2 - Keynote: The T in TDD : tests, types, tales - [*Mathias Brandewinder*][MathiasBrandewinder]
+## Jour 2 - [Keynote: The T in TDD : tests, types, tales][Video] - [*Mathias Brandewinder*][MathiasBrandewinder]
 
 Pour cette dernière session, Mathias nous offre du codage en direct[^1] avec brio, malgré quelques soucis techniques[^2].  
 Il reprend donc l'exemple de multi-devises du [livre de Kent Beck][TDDByExample], et va comparer l'implémentation en C# avec TDD à celle en F# et son retour immédiat grâce à la [REPL][REPL].
@@ -28,6 +28,7 @@ Le développement évolue et certains outils/techniques nous facilitent ou donne
 [^1]: Ouais, ouais, du Live Coding.
 [^2]: Mathias a effectivement eu un problème avec son ordinateur et s'en est fait prêter un avec une configuration très différentes de ses habitudes.
 
+[Video]: http://videos.ncrafts.io/video/131660199
 [MathiasBrandewinder]: https://twitter.com/brandewinder
 [TDDByExample]: http://www.amazon.fr/Test-Driven-Development-By-Example/dp/0321146530
 [REPL]: https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop
